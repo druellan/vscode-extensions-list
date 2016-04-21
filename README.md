@@ -15,4 +15,5 @@ ftp-sync -- <https://marketplace.visualstudio.com/items/lukasz-wronski.ftp-sync>
 
 ### Themes
 
+Son of Obsidian -- <https://marketplace.visualstudio.com/items?itemName=rprouse.theme-obsidian><br>
 Material Theme Kit -- <https://marketplace.visualstudio.com/items/ms-vscode.Theme-MaterialKit><br>
