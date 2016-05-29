@@ -22,11 +22,13 @@ Beautify -- <https://marketplace.visualstudio.com/items?itemName=HookyQR.beautif
 ### Themes
 
 Son of Obsidian -- <https://marketplace.visualstudio.com/items?itemName=rprouse.theme-obsidian><br>
-Material Theme Kit -- <https://marketplace.visualstudio.com/items/ms-vscode.Theme-MaterialKit><br>
-Oceanic Next Italic -- <https://marketplace.visualstudio.com/items?itemName=SintrumIT.theme-oceanic-next-italic><br>
+Oceanic Next -- <https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext><br>
 
 ### Testing
 
 Git Project Manager -- <https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager><br>
 GIT History -- <https://marketplace.visualstudio.com/items/donjayamanne.githistory><br>
+Gutter Preview -- <https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview><br>
+Path Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense><br>
+HTML Class Completions -- <https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion><br>
 PHP Code Format -- <https://marketplace.visualstudio.com/items/Kasik96.format-indent><br>
