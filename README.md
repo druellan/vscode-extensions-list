@@ -14,10 +14,11 @@ HTML Snippets -- <https://marketplace.visualstudio.com/items?itemName=abusaidm.h
 
 SVG Viewer -- <https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer><br>
 Align -- <https://marketplace.visualstudio.com/items/steve8708.Align><br>
-Bookmarks -- <https://marketplace.visualstudio.com/items/alefragnani.Bookmarks> -- Mark lines for quick-jump<br>
+Numbered Bookmarks -- <https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks> -- Mark lines for quick-jump<br>
 ftp-sync -- <https://marketplace.visualstudio.com/items/lukasz-wronski.ftp-sync><br>
 Document This -- <https://marketplace.visualstudio.com/items?itemName=joelday.docthis><br>
 Beautify -- <https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify><br>
+Autoprefixer -- <https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer><br>
 
 ### Themes
 
