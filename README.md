@@ -24,7 +24,9 @@ Scratchpad -- <https://marketplace.visualstudio.com/items?itemName=awesomektvn.s
 
 Git Lens -- <https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens> -- wonderful tool for code auditory<br>
 NPM Script Runner -- <https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script> -- Useful if you have a build or start script<br>
+NPM Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense><br>
 Autoprefixer -- <https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer><br>
+Path Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense><br>
 ftp-sync -- <https://marketplace.visualstudio.com/items/lukasz-wronski.ftp-sync><br>
 
 ### Themes
@@ -38,7 +40,6 @@ Git Kit -- <https://marketplace.visualstudio.com/items?itemName=albizures.gitkit
 Close HTML Tag -- <https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag> -- Not 100% reliable but useful<br>
 Output colorizer -- <https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer><br>
 Version Lens -- <https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens> -- hints the last version of a NPM package on package.json<br>
-Path Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense><br>
 Paste and Format -- <https://marketplace.visualstudio.com/items?itemName=spoeken.pasteandformat> -- not reliable<br>
 HTML Class Completions -- <https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion><br>
 PHP Code Format -- <https://marketplace.visualstudio.com/items/Kasik96.format-indent><br>
