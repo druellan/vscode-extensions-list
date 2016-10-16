@@ -40,8 +40,9 @@ Git Kit -- <https://marketplace.visualstudio.com/items?itemName=albizures.gitkit
 Close HTML Tag -- <https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag> -- Not 100% reliable but useful<br>
 Output colorizer -- <https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer><br>
 Version Lens -- <https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens> -- hints the last version of a NPM package on package.json<br>
-Paste and Format -- <https://marketplace.visualstudio.com/items?itemName=spoeken.pasteandformat> -- not reliable<br>
+Paste and Indent -- <https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent> -- <br>
 HTML Class Completions -- <https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion><br>
 PHP Code Format -- <https://marketplace.visualstudio.com/items/Kasik96.format-indent><br>
 HTML CSS Support -- <https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css><br>
 HTML Class Suggestions -- <https://marketplace.visualstudio.com/items?itemName=AndersEAndersen.html-class-suggestions><br>
+Identicator -- <https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator><br>
