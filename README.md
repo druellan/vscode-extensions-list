@@ -21,6 +21,7 @@ Beautify -- <https://marketplace.visualstudio.com/items?itemName=HookyQR.beautif
 GIT History -- <https://marketplace.visualstudio.com/items/donjayamanne.githistory><br>
 Autorename Tags -- <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag><br>
 Scratchpad -- <https://marketplace.visualstudio.com/items?itemName=awesomektvn.scratchpad><br>
+EditorConfig for VS Code -- <https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig><br>
 
 Git Lens -- <https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens> -- wonderful tool for code auditory<br>
 NPM Script Runner -- <https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script> -- Useful if you have a build or start script<br>
@@ -28,6 +29,8 @@ NPM Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christi
 Autoprefixer -- <https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer><br>
 Path Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense><br>
 ftp-sync -- <https://marketplace.visualstudio.com/items/lukasz-wronski.ftp-sync><br>
+Close HTML Tag -- <https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag> -- Not 100% reliable but useful<br>
+Guides -- <https://marketplace.visualstudio.com/items?itemName=spywhere.guides><br>
 
 ### Themes
 
@@ -37,7 +40,6 @@ Oceanic Next -- <https://marketplace.visualstudio.com/items?itemName=naumovs.the
 ### Testing
 
 Git Kit -- <https://marketplace.visualstudio.com/items?itemName=albizures.gitkit> -- Only interesting because GIT revert current file<br>
-Close HTML Tag -- <https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag> -- Not 100% reliable but useful<br>
 Output colorizer -- <https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer><br>
 Version Lens -- <https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens> -- hints the last version of a NPM package on package.json<br>
 Paste and Indent -- <https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent> -- <br>
@@ -45,4 +47,5 @@ HTML Class Completions -- <https://marketplace.visualstudio.com/items?itemName=Z
 PHP Code Format -- <https://marketplace.visualstudio.com/items/Kasik96.format-indent><br>
 HTML CSS Support -- <https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css><br>
 HTML Class Suggestions -- <https://marketplace.visualstudio.com/items?itemName=AndersEAndersen.html-class-suggestions><br>
-Identicator -- <https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator><br>
+Indent Rainbow -- <https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow><br>
+Regex Previewer -- <https://marketplace.visualstudio.com/items?itemName=chrmarti.regex><br>
