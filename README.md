@@ -4,12 +4,19 @@ The ecosystem is still young, so, I'm only testing these extensions. I work on H
 #### Language/Syntax
 
 Babel -- <https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring><br>
+SCSS Intellisense -- https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss<br>
 
 #### Snippets
 
 Bootstrap 3 Snippets -- <https://marketplace.visualstudio.com/items?itemName=wcwhitehead.bootstrap-3-snippets><br>
 HTML Snippets -- <https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets><br>
 Drupal 7 Snippets -- <https://marketplace.visualstudio.com/items?itemName=juniormucciolo.drupal-7-snippets><br>
+
+#### Visual Enhancements
+
+Guides -- <https://marketplace.visualstudio.com/items?itemName=spywhere.guides><br>
+Output colorizer -- <https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer><br>
+Bracket Pair Colorizer -- https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer<br>
 
 #### Tools
 
@@ -19,7 +26,8 @@ Numbered Bookmarks -- <https://marketplace.visualstudio.com/items?itemName=alefr
 Document This -- <https://marketplace.visualstudio.com/items?itemName=joelday.docthis><br>
 Beautify -- <https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify><br>
 GIT History -- <https://marketplace.visualstudio.com/items/donjayamanne.githistory><br>
-Autorename Tags -- <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag><br>
+Close HTML Tag -- <https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag> -- Not 100% reliable but useful<br>
+Better Merge -- https://marketplace.visualstudio.com/items?itemName=pprice.better-merge<br>
 Scratchpad -- <https://marketplace.visualstudio.com/items?itemName=awesomektvn.scratchpad><br>
 EditorConfig for VS Code -- <https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig><br>
 
@@ -29,8 +37,6 @@ NPM Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christi
 Autoprefixer -- <https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer><br>
 Path Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense><br>
 ftp-sync -- <https://marketplace.visualstudio.com/items/lukasz-wronski.ftp-sync><br>
-Close HTML Tag -- <https://marketplace.visualstudio.com/items?itemName=Compulim.compulim-vscode-closetag> -- Not 100% reliable but useful<br>
-Guides -- <https://marketplace.visualstudio.com/items?itemName=spywhere.guides><br>
 
 ### Themes
 
@@ -40,7 +46,6 @@ Oceanic Next -- <https://marketplace.visualstudio.com/items?itemName=naumovs.the
 ### Testing
 
 Git Kit -- <https://marketplace.visualstudio.com/items?itemName=albizures.gitkit> -- Only interesting because GIT revert current file<br>
-Output colorizer -- <https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer><br>
 Version Lens -- <https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens> -- hints the last version of a NPM package on package.json<br>
 Paste and Indent -- <https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent> -- <br>
 HTML Class Completions -- <https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion><br>
@@ -49,3 +54,5 @@ HTML CSS Support -- <https://marketplace.visualstudio.com/items?itemName=ecmel.v
 HTML Class Suggestions -- <https://marketplace.visualstudio.com/items?itemName=AndersEAndersen.html-class-suggestions><br>
 Indent Rainbow -- <https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow><br>
 Regex Previewer -- <https://marketplace.visualstudio.com/items?itemName=chrmarti.regex><br>
+Autorename Tags -- <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag> --  can be troublesome<br>
+CSS Peek -- https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek<br>
