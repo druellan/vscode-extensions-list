@@ -42,6 +42,8 @@ ftp-sync -- <https://marketplace.visualstudio.com/items/lukasz-wronski.ftp-sync>
 
 Son of Obsidian -- <https://marketplace.visualstudio.com/items?itemName=rprouse.theme-obsidian><br>
 Oceanic Next -- <https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext> -- The best port of Oceanic, but still has some issues<br>
+Dracula Extended -- https://marketplace.visualstudio.com/items?itemName=smlombardi.darcula-extended<br>
+Dark++ Theme -- https://marketplace.visualstudio.com/items?itemName=DryWolf.dark-plus-plus-theme<br>
 
 ### Testing
 
@@ -56,3 +58,6 @@ Indent Rainbow -- <https://marketplace.visualstudio.com/items?itemName=oderwat.i
 Regex Previewer -- <https://marketplace.visualstudio.com/items?itemName=chrmarti.regex><br>
 Autorename Tags -- <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag> --  can be troublesome<br>
 CSS Peek -- https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek<br>
+psioniq File Header Generator -- https://marketplace.visualstudio.com/items?itemName=psioniq.psi-header<br>
+Random Everything -- https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything<br>
+
