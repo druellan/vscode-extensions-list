@@ -1,28 +1,28 @@
 ## vscode-extensions-list
 I work on HTML/CSS/Javascript/PHP, so the extensions are going to cover mainly that kind of development.
 
-#### Language/Syntax
+### Language/Syntax
 
 Babel -- <https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring><br>
 SCSS Intellisense -- https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss<br>
 
 SCSS scan -- https://marketplace.visualstudio.com/items?itemName=aaronphy.scss-scan -- similar to SCSS Intellisense, but not as polished<br>
 
-#### Snippets
+### Snippets
 
 Bootstrap 3 Snippets -- <https://marketplace.visualstudio.com/items?itemName=wcwhitehead.bootstrap-3-snippets><br>
 HTML Snippets -- <https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets><br>
 Drupal 7 Snippets -- <https://marketplace.visualstudio.com/items?itemName=juniormucciolo.drupal-7-snippets><br>
 Wordpress Snippets -- https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet<br>
 
-#### Visual Enhancements
+### Visual Enhancements
 
 Bracket Pair Colorizer -- https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer<br>
 
 Guides -- <https://marketplace.visualstudio.com/items?itemName=spywhere.guides><br>
 Output colorizer -- <https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer><br>
 
-#### code functionalities
+### code functionalities
 
 Highlight Matching Tag -- <https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag> -- @code has support only for plain HTML files. This works on any file<br>
 Indenticator -- <https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator> -- just highlights the current ident depth<br>
@@ -35,13 +35,13 @@ Indentation level movement -- <https://marketplace.visualstudio.com/items?itemNa
 Autoprefixer -- <https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer><br>
 Path Intellisense -- <https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense><br>
 
-#### Quick Docs
+### Quick Docs
 
 Devdocs -- <https://marketplace.visualstudio.com/items?itemName=deibit.devdocs> -- searchs on devdocs.io<br>
 Document This -- <https://marketplace.visualstudio.com/items?itemName=joelday.docthis><br>
 CodeHeader -- <https://marketplace.visualstudio.com/items?itemName=wh01am.codeheader> -- automatically creates doc headers and keep them up-to-date<br>
 
-#### Tools
+### Tools
 
 Project Manager -- <https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager> -- allows quick-switch between projects<br>
 EditorConfig for VS Code -- <https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig><br>
